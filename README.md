@@ -335,13 +335,3 @@ fixed interval
 - [ ] Implement mocking in test cases
 
 ---
-
-# Contributions
-
-Contributions are always welcome!
-
-The roadmap given above is just a line of thought. Please feel free to contribute any other method which you feel could
-be helpful.
-
----
-
